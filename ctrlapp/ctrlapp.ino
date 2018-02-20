@@ -11,6 +11,8 @@ int temp = 0;
 int buzz = 7;
 int lt, itd, btstate;
 
+
+
 // MAC address from Ethernet shield sticker under board
 byte mac[] = { 0x98, 0x4F, 0xEE, 0x01, 0xAE, 0x54 };
 IPAddress ip(192, 168, 0, 107); // IP address, may need to change depending on network
